@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #faf7f2;
+  color: #1f1f1f;
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.5;
+}
+
+a {
+  color: #1f1f1f;
+  text-decoration: none;
+}
+
+button,
+input {
+  font-family: inherit;
+  font-size: 1rem;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
